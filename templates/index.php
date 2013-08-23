@@ -40,12 +40,12 @@
 			<?php $this->_view('log'); ?>
 		</div>
 		<div class="row-fluid">
-			<div class="span4">
+			<div class="span5">
 				<div id="left">
 					<?php $this->_view('schema'); ?>
 				</div>
 			</div>
-			<div class="span8">
+			<div class="span7">
 				<div id="right">
 					<?php $this->_view('revisions'); ?>
 				</div>
