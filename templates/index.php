@@ -45,7 +45,9 @@
 					<?php $this->_view('schema'); ?>
 				</div>
 			</div>
-			<div class="span8" style="padding-left: 50px; width: 60%;">
+
+			<div class="span6" style="padding-left: 50px; width: 60%;">
+
 				<div id="right">
 					<?php $this->_view('revisions'); ?>
 				</div>
